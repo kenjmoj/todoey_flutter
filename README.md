@@ -1,16 +1,9 @@
-# todoey_flutter
+# Todoey
 
-A new Flutter application.
+To Do list app created as part of Angela Yu's Udemy course.
 
-## Getting Started
+## Reference Notes
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- list view builder
+- provider
+- some reference on lifting the state
